@@ -1,0 +1,14 @@
+numpy
+scipy
+pandas
+pyarrow
+scikit-learn
+matplotlib
+seaborn
+requests
+# text / image streams only
+sentence-transformers
+torch
+torchvision
+transformers
+pillow
